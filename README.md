@@ -1,1 +1,1 @@
-“Curiosity is the first step to hell”
+My under the inspiration of the site: https://www.khenzii.tk.
