@@ -4,7 +4,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Fizo"];
+const textArray = ["Fizoo"];
 const typingDelay = 100;
 const erasingDelay = 75;
 const newTextDelay = 2000;
